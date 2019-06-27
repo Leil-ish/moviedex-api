@@ -7,6 +7,9 @@
     "dev": "nodemon server.js"
   },
   "keywords": [],
+  "engines": {
+    "node": "12.1.0"
+  },
   "author": "Leila Anderson",
   "license": "ISC",
   "dependencies": {
